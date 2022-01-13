@@ -5,3 +5,4 @@ dnspython
 async-timeout
 aiohttp
 nest_asyncio
+pymongo[srv]==3.11.4
